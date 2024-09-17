@@ -5,6 +5,9 @@ Using Redux, React-redux, React-bootstrap
 Node version: v20.13.1
 npm version: 10.5.2
 
+## Author
+- HoaiNN1
+
 ## Installation
 
 - Clone the Project.
